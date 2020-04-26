@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simpledatagenerator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/simpledatagenerator/static/js/main.3c572c44.chunk.js",
+    "main.js.map": "/simpledatagenerator/static/js/main.3c572c44.chunk.js.map",
+    "runtime-main.js": "/simpledatagenerator/static/js/runtime-main.6f75ee67.js",
+    "runtime-main.js.map": "/simpledatagenerator/static/js/runtime-main.6f75ee67.js.map",
+    "static/js/2.819b065c.chunk.js": "/simpledatagenerator/static/js/2.819b065c.chunk.js",
+    "static/js/2.819b065c.chunk.js.map": "/simpledatagenerator/static/js/2.819b065c.chunk.js.map",
+    "index.html": "/simpledatagenerator/index.html",
+    "precache-manifest.a25a1b1706fd3636c6d95b656d36dd89.js": "/simpledatagenerator/precache-manifest.a25a1b1706fd3636c6d95b656d36dd89.js",
+    "service-worker.js": "/simpledatagenerator/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/simpledatagenerator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.819b065c.chunk.js.LICENSE.txt": "/simpledatagenerator/static/js/2.819b065c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f75ee67.js",
+    "static/js/2.819b065c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3c572c44.chunk.js"
+  ]
+}
